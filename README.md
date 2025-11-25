@@ -50,7 +50,8 @@ NightRwby@Profile
 . DevOps & Versioning: ........ Git, Docker
 .  
 - Project Planning -——————————————————————————————-—-
-. Planning: ................... Use Case, Prototype, Storyboard, Style Guide
+. Planning: ................... Use Case, Prototype,
+                                Storyboard, Style Guide
 .
 - Contact -————————————————————————————————————————-—-
 . Email: ..................... jemin9457@gmail.com
