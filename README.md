@@ -67,3 +67,7 @@ NightRwby@Profile
 </td>
 </tr> 
 </table>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NightRwby&theme=react-dark" alt="NightRwby GitHub Activity Graph" />
+</p>
