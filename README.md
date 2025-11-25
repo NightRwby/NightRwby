@@ -1,9 +1,9 @@
 <table width="100%">
 <tr>
-<td colspan="2" style="padding: 0;">
+<td colspan="2" style="padding: 0;>
 <table width="100%">
 <tr>
-<td width="35%" valign="top" align="left">
+<td width="35%" valign="top" align="left" style="padding: 0";>
 <pre>
                   _=:@$%-==-__.               
                 @%@@@@@@@%#*=*=:=-              
@@ -70,7 +70,7 @@ NightRwby@Profile
 </tr>
 
 <tr>
-<td colspan="2" align="center" style="padding-top: 10px;">
+<td colspan="2" align="center" style="padding: 10px 0 0 0";>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=NightRwby&theme=react-dark" alt="NightRwby GitHub Activity Graph" width="100%" />
 </td>
 </tr>
