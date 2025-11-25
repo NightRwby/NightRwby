@@ -51,7 +51,7 @@ NightRwby@Profile
 .  
 - Project Planning -——————————————————————————————-—-
 . Planning: ................... Use Case, Prototype,
-                                Storyboard, Style Guide   
+                                Storyboard, Style Guide  
 .
 - Contact -————————————————————————————————————————-—-
 . Email: ..................... jemin9457@gmail.com
