@@ -1,6 +1,6 @@
 <table width="100%">
 <tr>
-<td width="10%" align="center">
+<td width="35%" align="center">
 
 <pre>
                  _=:@$%-==-__.               
@@ -34,7 +34,7 @@
 
 </td>
 
-<td width="90%" valign="top">
+<td width="65%" valign="top">
 
 <pre>
 NightRwby@Profile
